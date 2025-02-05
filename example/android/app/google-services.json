@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210693398311",
+    "project_id": "test-cc75f",
+    "storage_bucket": "test-cc75f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210693398311:android:f6e6dfd9c75ec074371302",
+        "android_client_info": {
+          "package_name": "com.noeatsleepdev.geoflutterfireexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcI_RRVOCZicaKqgCLFcZKh_X9Bm0pdag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
